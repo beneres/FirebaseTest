@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseTest (23839)</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="course">Course</string>
+    <string name="year">Year</string>
+</resources>
